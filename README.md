@@ -10,4 +10,4 @@ Live Github Pages App: https://sibalea.github.io/belly-button-challenge/
 - [StackOverflow](https://stackoverflow.com/)
 
 ## Acknowledgment
-Adding Module10 assignment done with the expertise of [@rosericazondekon](https://github.com/rosericazondekon).
+Adding Module14 assignment done with the expertise of [@rosericazondekon](https://github.com/rosericazondekon).

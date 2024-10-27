@@ -7,8 +7,10 @@ App Deployment to Github Pages: https://sibalea.github.io/belly-button-challenge
 
 ## Documentaion
 
-https://d3js.org/
-https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
+https://d3js.org/;
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html;
+
 https://stackoverflow.com/
 
 ## Acknowledgment
